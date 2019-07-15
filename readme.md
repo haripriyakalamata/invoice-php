@@ -6,7 +6,7 @@ example
 -------
 import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
-import ListSearch from './components/ListSearch';
+import ListSearch from '@haripriya.kalamata/tiny';
 
 export default class App extends React.Component {
    constructor(props) {
