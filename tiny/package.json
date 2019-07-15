@@ -1,0 +1,7 @@
+{
+  "name": "@haripriya.kalamata/tiny",
+  "version": "4.0.0",
+  "dependencies": {
+    "react-native-elements": "1.1.0"
+  },
+}
